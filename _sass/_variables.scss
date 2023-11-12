@@ -26,14 +26,23 @@ $grey-color:          #828282 !default;
 $grey-color-light:    lighten($grey-color, 40%);
 $grey-color-dark:     #1C1C1D;
 $grey-900:            #212529;
+$main-content-grey:   #37484f;
+$highlight-red:       #85210c;
 
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light:     rgba($purple-color, 0.05);
+$code-bg-color-light:     rgba($highlight-red, 0.05);
 $code-bg-color-dark:      #2c3237 !default;
 
+// // Font weight settings
+// $font-weight-light:           300 !default;
+// $font-weight-normal:          500 !default;
+// $font-weight-bold:            700 !default;
+
+// $font-weight-base:            $font-weight-normal !default;
+
 // Font awesome location
-$fa-font-path: "../webfonts";
+$fa-font-path: "../webfonts" !default;

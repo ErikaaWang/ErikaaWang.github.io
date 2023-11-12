@@ -17,16 +17,24 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-weight: normal;
 }
 
 hr {
   border-top: 1px solid var(--global-divider-color);
+  font-weight: normal;
+}
+
+body{
+  font-weight: normal;
 }
 
 table {
+  font-weight: normal;
   td,
   th {
     font-size: 1rem;
+    font-weight: normal;
   }
 
   th {
@@ -37,6 +45,7 @@ table {
 a,
 table.table a {
   color: var(--global-theme-color);
+  font-weight: normal;
 
   &:hover {
     color: var(--global-theme-color);
@@ -132,6 +141,7 @@ blockquote {
 
 .card {
   background-color: var(--global-card-bg-color);
+  font-weight: normal;
 
   img {
     width: 100%;
@@ -218,6 +228,7 @@ blockquote {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  font-weight: normal;
 }
 
 .navbar .dropdown-menu {
@@ -436,10 +447,12 @@ footer.sticky-bottom {
 
 .cv {
   margin-bottom: 40px;
+  font-weight: normal;
 
   .card {
     background-color: var(--global-card-bg-color);
     border: 1px solid var(--global-divider-color);
+    font-weight: normal;
 
     .list-group-item {
       background-color: inherit;
@@ -457,6 +470,7 @@ footer.sticky-bottom {
   background-color: transparent;
   border: none;
   color: var(--global-text-color);
+  font-weight: normal;
 }
 
 // Repositories
