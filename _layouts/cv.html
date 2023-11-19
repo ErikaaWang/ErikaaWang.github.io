@@ -10,7 +10,7 @@ layout: default
       {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
   </header>
 
-  <article>
+  <!-- <article>
     <div class="cv">
       {% for entry in site.data.cv %}
         <a class="anchor" id="{{ entry.title }}"></a>
@@ -34,7 +34,7 @@ layout: default
         </div>
       {% endfor %}
       </div>
-  </article>
+  </article> -->
 
 </div>
 {% else %}
@@ -45,7 +45,7 @@ layout: default
     {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
   </header>
 
-  <article>
+  <!-- <article>
     <div class="cv">
       {% for data in site.data.resume %}
         {% if site.jsonresume and site.jsonresume.size > 0 %}
@@ -90,7 +90,7 @@ layout: default
         </div>
       {% endfor %}
       </div>
-  </article>
+  </article> -->
 
 </div>
 {% endunless %}

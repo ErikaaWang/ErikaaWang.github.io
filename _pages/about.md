@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-start_sents: Hi! I'm Hetong Wang. 
+start_sents: 👋 Hi! I'm Hetong Wang. 
 permalink: /
 subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -15,15 +15,18 @@ profile:
 # <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+My name is 王鹤童 in Chinese. Feel free to call me `Hetong` or `Erika` alternatively! 
 
-My name is Hetong Wang, 王鹤童 in Chinese. Feel free to call me `Hetong` or `Erika` alternatively!
+My ultimate research goal is to build a general-purpose model that could go beyond imitation and simple memorization, i.e. perform as intelligent agents, who can learn new strategies from few but essential data, e.g. task description and instruction, rules and interaction with the environment. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Meanwhile, I found **(1) the interpretability of deep neural models**, **(2) efficient skill discovery and alignment methods**, **(3) cross-lingual generalisation**, are interesting topics that could lead me towards the grand goal. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Moreover, formulating and explaining deep learning through the lens of [information theory](https://en.wikipedia.org/wiki/Information_theory) attracted and inspired me a lot, I am excited to discuss this topic with folks who interested as well!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### About
+
+I obtained my master in [Artificial Intelligence](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2024&id=107) at [The Univerisity of Edinburgh](https://www.ed.ac.uk/), where I am fortunately advised by [Prof. Edoardo Ponti](https://ducdauge.github.io) and [Dr. Pasquale Minervini](https://neuralnoise.com) in my master thesis: **Probing the dynamics of implicit alignment in LLM**. Before that, I obtained my bachelor in [Computer Science](https://www.liverpool.ac.uk/courses/2024/computer-science-bsc-hons) at [The University of Liverpool](https://www.liverpool.ac.uk/), with a research focus on Reinforcement Learning. 
