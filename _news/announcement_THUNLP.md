@@ -11,7 +11,7 @@ So thrilled to share that I am now in Beijing, China📍 and start my intern in 
 
 It's exciting to explore a new topic on utilizing a multi-model or multi-agent setting on alignment problems and work with fantastic collaborators. Please feel free to drop me a message if you are interested in this topic and would like to discuss! 
 
-Tsinghua University was covered in snow on my first day here. I fortunately attended the Multimodal Intelligence seminar held on 20th Dec at FIT building:
+Tsinghua University was covered in snow on my first day here. Moreover, I fortunately attended the Multimodal Intelligence seminar held on 20th Dec at FIT building:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0 mx-auto text-center">
@@ -19,4 +19,4 @@ Tsinghua University was covered in snow on my first day here. I fortunately atte
     </div>  
 </div>
 
-I believe this journey will be quite enjoyable! 
+Thanks for the recognition from THUNLP group. I believe this journey will be quite enjoyable! 
