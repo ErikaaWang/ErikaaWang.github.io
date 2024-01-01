@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 start_sents: 👋 Hi! I'm Hetong Wang. 
 permalink: /
 subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
@@ -29,4 +29,4 @@ Moreover, formulating and explaining deep learning through the lens of [informat
 
 ### About
 
-I am currently a research intern in [TsinghuaNLP](https://nlp.csai.tsinghua.edu.cn/), working on LLM-based Multi-agent system. I obtained my master in [Artificial Intelligence](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2024&id=107) at [The Univerisity of Edinburgh](https://www.ed.ac.uk/), where I am fortunately advised by [Prof. Edoardo Ponti](https://ducdauge.github.io) and [Dr. Pasquale Minervini](https://neuralnoise.com) in my master thesis: **Probing the dynamics of implicit alignment in LLM**. Before that, I obtained my bachelor in [Computer Science](https://www.liverpool.ac.uk/courses/2024/computer-science-bsc-hons) at [The University of Liverpool](https://www.liverpool.ac.uk/), with a research focus on Reinforcement Learning. 
+I am currently a research intern in [TsinghuaNLP](https://nlp.csai.tsinghua.edu.cn/), working on LLM-based Multi-agent system. I obtained my master in [Artificial Intelligence](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2024&id=107) at [The Univerisity of Edinburgh](https://www.ed.ac.uk/), where I am fortunately advised by [Prof. Edoardo Ponti](https://ducdauge.github.io) and [Dr. Pasquale Minervini](https://neuralnoise.com) in my master thesis: **Probing the dynamics of implicit alignment in LLM**. Before that, I obtained my bachelor in [Computer Science](https://www.liverpool.ac.uk/courses/2024/computer-science-bsc-hons) at [The University of Liverpool](https://www.liverpool.ac.uk/), with a research focus on Reinforcement Learning. Please check my [CV here](/assets/pdf/CV_12_2023.pdf). 
