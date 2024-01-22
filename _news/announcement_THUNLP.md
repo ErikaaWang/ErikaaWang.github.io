@@ -15,7 +15,7 @@ Tsinghua University was covered in snow on my first day here. Moreover, I fortun
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0 mx-auto text-center">
-        {% include figure.html path="assets/img/GaoHuangPre.jpg" class="img-fluid rounded z-depth-1" width="800" height="600" caption="Prof. Gao Huang presenting his work on Agent Attention and Linear Attention."%}
+        {% include figure.html path="assets/img/GaohuangPre.jpg" class="img-fluid rounded z-depth-1" width="800" height="600" caption="Prof. Gao Huang presenting his work on Agent Attention and Linear Attention."%}
     </div>  
 </div>
 
