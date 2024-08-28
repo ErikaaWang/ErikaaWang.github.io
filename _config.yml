@@ -6,7 +6,7 @@ title: Hetong Wang's Homepage # the website title (if blank, full name will be u
 first_name: Hetong
 middle_name:
 last_name: Wang
-email: hetong.wang809@gmail.com
+email: # hetong.wang809@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hetong Wang's personal page
 footer_text: >
@@ -100,7 +100,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
-contact_note: I check email most frequently, happy to discuss!
+contact_note: # I check email most frequently, happy to discuss!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

@@ -15,12 +15,13 @@ layout: default
               {% else %}
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
               {% endif %}
-
-              {% include figure.html
-              path=profile_image_path
-              class=profile_image_class
-              alt=page.profile.image
-              cache_bust=true -%}
+              <center>
+                  {% include figure.html
+                  path=profile_image_path
+                  class=profile_image_class
+                  alt=page.profile.image
+                  cache_bust=true -%}
+              </center>
             {% endif -%}
             {%- if page.profile.more_info %}
             <div class="more-info">
@@ -55,19 +56,19 @@ layout: default
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
-            <h2><center><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></center></h2>
+            <h2 class="special-heading"><a href="{{ '/news/' | relative_url }}" style="color: inherit;">NEWS</a></h2>
             {%- include news.html limit=true %}
           {%- endif %}
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}
-            <h2><center><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></center></h2>
+            <h2 class="special-heading"><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
             {%- include latest_posts.html %}
           {%- endif %}
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><center><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></center></h2>
+            <h2 class="special-heading"><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">PUBLICATIONS</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
         </article>
