@@ -37,12 +37,16 @@ $black-color: #000000 !default;
 $code-bg-color-light:     rgba($highlight-red, 0.05);
 $code-bg-color-dark:      #2c3237 !default;
 
-// // Font weight settings
-// $font-weight-light:           300 !default;
-// $font-weight-normal:          500 !default;
-// $font-weight-bold:            700 !default;
-
-// $font-weight-base:            $font-weight-normal !default;
-
 // Font awesome location
-$fa-font-path: "../webfonts" !default;
+$fa-font-path: "../webfonts";
+
+// Tabler icons location
+$ti-font-path: "../fonts";
+
+// Back To Top button config
+$back-to-top-z-index: 10;
+$back-to-top-bottom: 30px;
+$back-to-top-right: 30px;
+$back-to-top-diameter: 40px;
+$back-to-top-height: $back-to-top-diameter;
+$back-to-top-width: $back-to-top-diameter;
