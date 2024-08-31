@@ -21,12 +21,21 @@ strong {
 
 hr {
   border-top: 1px solid var(--global-divider-color);
-  font-weight: bold;
 }
 
 body{
   font-family: Arial, Helvetica, sans-serif;
   font-weight: normal;
+}
+
+strong, b {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+u {
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
 }
 
 table {
@@ -182,7 +191,6 @@ ul.task-list input[type="checkbox"] {
 
 .card {
   background-color: var(--global-card-bg-color);
-  font-weight: normal;
 
   .card-img {
     width: 100%;
@@ -264,7 +272,6 @@ ul.task-list input[type="checkbox"] {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
-  font-weight: normal;
 }
 
 .navbar .dropdown-menu {
@@ -488,12 +495,10 @@ footer.sticky-bottom {
 
 .cv {
   margin-bottom: 40px;
-  font-weight: normal;
 
   .card {
     background-color: var(--global-card-bg-color);
     border: 1px solid var(--global-divider-color);
-    font-weight: normal;
 
     .list-group-item {
       background-color: inherit;
@@ -511,7 +516,6 @@ footer.sticky-bottom {
   background-color: transparent;
   border: none;
   color: var(--global-text-color);
-  font-weight: normal;
   }
 
 .date-column {
