@@ -9,7 +9,7 @@ profile:
   align: right
   image: hetong_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: <center><a href="mailto:hetong.wang809@gmail.com"><p>hetong.wang809@gmail.com</a></p></center>
+  more_info: <center><p>hetong.wang809[at]gmail.com</p></center>
 # <p>123 your address street</p>
 # <p>Your City, State 12345</p>
 
